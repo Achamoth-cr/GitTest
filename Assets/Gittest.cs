@@ -13,6 +13,8 @@ public class Gittest : MonoBehaviour
         Debug.Log("Test");
         
         Debug.Log("キラーカブトガニは22世紀に残せ");
+        
+        Debug.Log("テスト");
     }
 
     // Update is called once per frame
