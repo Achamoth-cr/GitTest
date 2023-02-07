@@ -10,7 +10,9 @@ public class Gittest : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Debug.Log("Test");
         
+        Debug.Log("キラーカブトガニは22世紀に残せ");
     }
 
     // Update is called once per frame
