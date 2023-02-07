@@ -5,7 +5,7 @@ using UnityEngine;
 public class Gittest : MonoBehaviour
 {
     //ブランチテストだよ
-    //Test
+    //Testあーい
     
     // Start is called before the first frame update
     void Start()
